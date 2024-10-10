@@ -1,0 +1,14 @@
+{
+    "PassengerId": 1,
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Braund, Mr. Owen Harris",
+    "Sex": "female",
+    "Age": 22,
+    "SibSp": 2,
+    "Parch": 2,
+    "Ticket": 21171,
+    "Fare": 200,
+    "Cabin": "A",
+    "Embarked": "S"
+}
